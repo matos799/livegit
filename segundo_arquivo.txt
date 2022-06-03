@@ -1,9 +1,5 @@
 primeira linha
 
-<<<<<<< HEAD
-
-nova linha miguel
-=======
 nova linha fulano
->>>>>>> fa0681c72c30b631d5b20f10f4a33d1f30c60ee1
-treste
+
+ctuasda
